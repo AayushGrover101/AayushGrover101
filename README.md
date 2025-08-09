@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">I'm a CS student at the University of Waterloo by day, builder by night, and music enthusiast everywhere in between 🎶</p>
+<p align="left">I'm a second year CS student at the University of Waterloo by day, builder by night, and music enthusiast everywhere in between 🎶</p>
+<p align="left">If you need to reach me, feel free to email: <a href="mailto:aayushgrover101@gmail.com">aayushgrover101@gmail.com</a>.</p>
+
 
 ###
 
